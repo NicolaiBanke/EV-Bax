@@ -1,0 +1,9 @@
+name: ev-bax 
+channels:
+ - defaults
+ - conda-forge
+ - pip
+dependencies:
+ - python==3.14
+ - pandas
+ - numpy
